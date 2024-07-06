@@ -1,1 +1,1 @@
-First AWS Lambda Project
+First AWS Lambda Demo Project
