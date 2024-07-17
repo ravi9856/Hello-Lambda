@@ -8,6 +8,6 @@ public class LambdaDemoTest {
     @Test
     public void shouldReturnHelloMessage(){
         var lambda = new LambdaDemo();
-        Assertions.assertEquals("Hello AWS Lambda!!", lambda.handleRequest());
+        Assertions.assertEquals("Hello Ravi Lambda!!", lambda.handleRequest("Ravi"));
     }
 }
